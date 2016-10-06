@@ -1,0 +1,51 @@
+
+#zg-slika {
+    left: 40%;
+
+}
+
+body {
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 50px;
+}
+
+#sredina{
+    height: 380px;
+    width: 350px;
+    background-color: beige;
+    left: 40%;
+    position: relative; 
+}
+
+#slika-profila{
+    width: 150px;
+    height: 110px;
+    border-radius: 16px;
+}
+
+#gumb-prijava{
+    height: 50px;
+    width: 150px;
+    background-color: cornflowerblue;
+    margin-left: 100px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border-style: solid;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+    padding-left: 20px;
+}
+#nav-bottom{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-style: inset;
+    width: 100%;
+}
